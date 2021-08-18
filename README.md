@@ -18,8 +18,8 @@ Best Compatible with Flutter 2.2
 
 Run the following commands where you want to clone the project.
    ```sh
-    git clone https://github.com/mhmzdev/The_Holy_Quran_App.git
-    cd The_Holy_Quran_App
+    git clone https://github.com/saimrahdari/Notes_App
+    cd Notes_App
     flutter packages get
     flutter run
    ```
@@ -41,7 +41,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Saim Rahdari - [@saimrahdari](https://twitter.com/saimrahdari)
 
-Project Link: [Notes App](https://github.com/saimrahdari/Notes_App.git)
+Project Link: [Notes App](https://github.com/saimrahdari/Notes_App)
 
 Kindly give a ⭐ to the repo if you like it!
 

@@ -3,6 +3,15 @@
   <p align="center">
     A simple note app concept to save any idea quick and easy 📝✏
     <br />
+  
+### Screenshots
+![](assets/images/1.png)
+</br>
+</br>
+![](assets/images/2.png)
+</br>
+</br>
+![](assets/images/3.png)
 
 ### Built With
 
@@ -23,16 +32,7 @@ Run the following commands where you want to clone the project.
     flutter packages get
     flutter run
    ```
-
-### Screenshots
-![](assets/images/1.png)
-</br>
-</br>
-![](assets/images/2.png)
-</br>
-</br>
-![](assets/images/3.png)
-
+  
 ### License
 
 Distributed under the MIT License. See `LICENSE` for more information.

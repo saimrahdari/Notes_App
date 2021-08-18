@@ -1,16 +1,48 @@
-# notes_app
+  <h1 align="center">Notes App</h1>
 
-A new Flutter project.
+  <p align="center">
+    A simple note app concept to save any idea quick and easy 📝✏
+    <br />
 
-## Getting Started
+### Built With
 
-This project is a starting point for a Flutter application.
+I have used Shared Preferences package as a database for my project. You can check out the technologies used from the links given below.
+* [Flutter](https://flutter.dev/)
+* [Dart](https://dart.dev/)
+* [Shared Preferences](https://pub.dev/packages/shared_preferences)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Best Compatible with Flutter 2.2
+
+Run the following commands where you want to clone the project.
+   ```sh
+    git clone https://github.com/mhmzdev/The_Holy_Quran_App.git
+    cd The_Holy_Quran_App
+    flutter packages get
+    flutter run
+   ```
+
+### Screenshots
+![](assets/images/1.png)
+</br>
+</br>
+![](assets/images/2.png)
+</br>
+</br>
+![](assets/images/3.png)
+
+### License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+### Author
+
+Saim Rahdari - [@saimrahdari](https://twitter.com/saimrahdari)
+
+Project Link: [Notes App](https://github.com/saimrahdari/Notes_App.git)
+
+Kindly give a ⭐ to the repo if you like it!
+
+Copyright (c) 2021 Saim Rahdari

@@ -5,7 +5,7 @@
     <br />
   
 ### Download Now
-Get it Now [Notes App](https://drive.google.com/file/d/19oA3wcvMoJdqyjd58wnUWIwnQI_h-_u2/view?usp=sharing)
+Get it [Notes App](https://drive.google.com/file/d/19oA3wcvMoJdqyjd58wnUWIwnQI_h-_u2/view?usp=sharing)
   
 ### Screenshots
 ![](assets/images/1.png)

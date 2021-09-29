@@ -45,8 +45,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Saim Rahdari - [@saimrahdari](https://twitter.com/saimrahdari)
 
-Project Link: [Notes App](https://github.com/saimrahdari/Notes_App)
-
 Kindly give a ⭐ to the repo if you like it!
 
 Copyright (c) 2021 Saim Rahdari
